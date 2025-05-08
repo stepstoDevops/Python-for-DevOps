@@ -1,0 +1,13 @@
+Python Installation Steps
+
+1. Command to Install Python on Windows Machina via Powershell 
+
+> winget install -e --id Python.Python.3.12 --scope machine
+
+Now , check version with - python --version
+
+2. To install Python on Ubuntu or most Linux systems, use this one-line command in your terminal:
+
+> sudo apt update && sudo apt install python3
+
+After installation, verify it with: python3 --version
