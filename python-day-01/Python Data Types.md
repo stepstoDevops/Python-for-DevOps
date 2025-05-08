@@ -1,16 +1,16 @@
 # Python Data Types
 
-Data types are fundamental in programming-they define what kind of value a variable can hold and what operations can be performed on it. In Python, data types are especially important because Python uses dynamic typing, meaning you don’t have to declare a variable’s type explicitly; it’s determined by the value you assign[2][4][5].
+In Python, data types are especially important because Python uses dynamic typing, meaning you don’t have to declare a variable’s type explicitly; it’s determined by the value you assign .
 
 ## **Why Data Types Matter**
 
 - They determine how data is stored in memory.
 - They define what operations are valid for each variable.
-- They help prevent errors by ensuring data is used appropriately[7][10].
+- They help prevent errors by ensuring data is used appropriately.
 
 ## **Python's Built-in Data Types**
 
-Python offers a variety of built-in data types, grouped into several categories[2][5]:
+Python offers a variety of built-in data types, grouped into several categories:
 
 | Category        | Data Types                                       | Example                                      |
 |-----------------|--------------------------------------------------|----------------------------------------------|
@@ -53,7 +53,7 @@ Python offers a variety of built-in data types, grouped into several categories[
 
 ## **Dynamic Typing in Python**
 
-Unlike statically typed languages like Java or C, where you must declare a variable’s type, Python lets you assign any value directly, and the type is set automatically[2][4][5]. For example:
+Unlike statically typed languages like Java or C, where you must declare a variable’s type, Python lets you assign any value directly, and the type is set automatically. For example:
 
 ```python
 x = 10        # int
@@ -77,9 +77,9 @@ This makes Python flexible and beginner-friendly but requires you to be careful 
 
 ## **Custom Data Types**
 
-Python allows you to create your own data types using classes, enabling you to model complex data and behaviors specific to your application[2][4].
+Python allows you to create your own data types using classes, enabling you to model complex data and behaviors specific to your application.
 
 ## **How Python Manages Data Types Internally**
 
-Python manages memory for different data types using a private heap and specialized allocators for each type, ensuring efficient storage and retrieval[6]. This is all handled automatically by the interpreter.
+Python manages memory for different data types using a private heap and specialized allocators for each type, ensuring efficient storage and retrieval. This is all handled automatically by the interpreter.
 
