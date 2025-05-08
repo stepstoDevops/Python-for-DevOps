@@ -1,2 +1,2 @@
 # Python-for-DevOps
-Python for DevOps
+Data Types in Python
